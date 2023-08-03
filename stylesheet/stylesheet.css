@@ -1,0 +1,27 @@
+.webpage {
+    background-color: rgba(223, 218, 210, 0.719);
+}
+
+.title {
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+.cardbox {
+    color: white;
+    background-color: rgb(50, 148, 58);
+    text-align: center;
+    width: 750px;
+    margin: auto;
+}
+
+.recipelist {
+    color: white;
+    font-family: Arial;
+    font-size: 20px;
+    margin-bottom: 30px;
+    list-style-type: none;
+    text-align: left;
+    padding-bottom: 50px;
+}
+

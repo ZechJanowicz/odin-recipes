@@ -1,3 +1,11 @@
+.images {
+    margin-top: 20px;
+    width: 300px;
+    height: 300px;
+    object-fit: fill;
+    border-radius: 150px;
+}
+
 .webpage {
     background-color: rgba(223, 218, 210, 0.719);
 }
@@ -16,6 +24,8 @@
     border-radius: 425px;
     border-style: solid;
     border-width: 4px;
+    border-color: black;
+    padding-bottom: 30px;
 }
 
 .recipelist {

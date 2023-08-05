@@ -13,6 +13,9 @@
     text-align: center;
     width: 750px;
     margin: auto;
+    border-radius: 425px;
+    border-style: solid;
+    border-width: 4px;
 }
 
 .recipelist {
@@ -21,7 +24,10 @@
     font-size: 20px;
     margin-bottom: 30px;
     list-style-type: none;
-    text-align: left;
-    padding-bottom: 50px;
+    text-align: center;
+    display: inline-flex;
+    justify-content: space-between;
+    width: 300px;
+    margin-top: 40px;
 }
 
